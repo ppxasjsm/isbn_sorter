@@ -1,0 +1,10 @@
+ISBN：9780340592847      Title：(null) Author：(null)
+ISBN：9780340588673      Title：(null) Author：(null)
+ISBN：9783800026166      Title：Krieg der Engel   Published Date：1999     Page count：563  Language：de     Country：DE      Author：Wolfgang Hohlbein, Heike Hohlbein
+ISBN：9783791530123      Title：Emil und die Detektive    Published Date：1980     Page count：166  Language：ja     Country：DE      Author：Erich Kästner
+ISBN：3423790083 Title：(null) Author：(null)
+ISBN：352210580X Title：(null) Author：(null)
+ISBN：9783473345656      Title：Mystery-Club      Published Date：1999-01  Page count：190  Language：de     Country：DE      Author：Fiona Kelly
+ISBN：9783570203033      Title：(null) Author：(null)
+ISBN：9783473345724      Title：(null) Author：(null)
+ISBN：9783473345649      Title：Mystery-Club      Published Date：1998     Page count：191  Language：de     Country：DE      Author：Fiona Kelly
